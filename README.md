@@ -28,16 +28,6 @@
 
 > 让技术创造价值，欢迎一起探索更广阔的 AI 世界！
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaohai-78)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaohai-78&hide=contribs,prs)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaohai-78&count_private=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaohai-78&show_icons=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaohai-78&show_icons=true&theme=radical)
-
 <!--
 **xiaohai-78/xiaohai-78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
