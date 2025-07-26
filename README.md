@@ -6,12 +6,7 @@
 
 ## 🚀 About Me
 
-热爱开源，专注于 AI 与 Java 技术栈，致力于推动企业级 AI 应用的落地。欢迎交流与合作！
-
-## 🧩 Projects
-
-- [alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)  
-  阿里巴巴官方 Spring AI 集成，专注于为开发者提供高效的 AI 能力接入与应用开发体验。
+热爱开源，专注于 AI 与 Java 技术栈，致力于推动企业级 AI 应用的落地。欢迎交流！
 
 ## 💡 Skills
 
