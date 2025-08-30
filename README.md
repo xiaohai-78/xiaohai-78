@@ -6,11 +6,10 @@
 
 ## 🚀 About Me
 
-Passionate about open source and deeply focused on AI and the Java tech stack. I’m committed to advancing enterprise-level AI applications. Always open to collaboration and technical exchange!
+Passionate about open source and dedicated to advancing real-world AI solutions for enterprises. I thrive on innovation, value collaboration, and am always eager to exchange ideas and explore new possibilities in the AI space.
 
 ## 💡 Skills
 
-* Java / Spring / Spring Boot
 * AI application development and integration
 * Cloud-native architecture & microservices
 * Open source collaboration and community building
@@ -21,7 +20,6 @@ Passionate about open source and deeply focused on AI and the Java tech stack. I
 
 ---
 
-> Let technology create real value — join me in exploring the broader world of AI!
+> Let technology create real value — join me and explore the broader world of AI!
 
 ---
-
